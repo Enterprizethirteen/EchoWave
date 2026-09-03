@@ -1,4 +1,4 @@
-# Sazza's Chat Room
+# EchoWave's Chat Room
 
 A warm, responsive chat-room interface built with React, TypeScript, and Vite.
 
