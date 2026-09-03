@@ -1,8 +1,8 @@
-# Sazza's Chat Room
+# EchoWave
 
 A warm, responsive chat-room interface built with React, TypeScript, and Vite.
 
-Live room: [enterprizethirteen.github.io/sazzachatroom.github.io](https://enterprizethirteen.github.io/EchoWave.github.io/)
+Live room: [enterprizethirteen.github.io/EchoWave/](https://enterprizethirteen.github.io/EchoWave/)
 
 Hosting dashboard: [VIP VentraIP](https://vip.ventraip.com.au/dashboard)
 
