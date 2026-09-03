@@ -1,11 +1,11 @@
 {
-  "name": "echowaves-chat-room",
+  "name": "echowave-chat-room",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": ".\\node_modules\\.bin\\tsc.cmd --noEmit && .\\node_modules\\.bin\\vite.cmd build",
     "preview": "vite preview"
   },
   "dependencies": {

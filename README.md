@@ -1,8 +1,10 @@
-# EchoWave's Chat Room
+# EchoWave
 
 A warm, responsive chat-room interface built with React, TypeScript, and Vite.
 
-Live room: [https://github.com/Enterprizethirteen/EchoWave/)
+Live room: [EchoWave](https://enterprizethirteen.github.io/EchoWave/)
+
+Repository: [EchoWave](https://github.com/Enterprizethirteen/EchoWave)
 
 Hosting dashboard: [VIP VentraIP](https://vip.ventraip.com.au/dashboard)
 
